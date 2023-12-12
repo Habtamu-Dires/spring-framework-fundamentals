@@ -10,7 +10,7 @@ public class Owner {
 //    private Cat cat = new Cat(); //this will create a cat but not the one form the context
 
     @Autowired     // ->find form the context of type Cat and give to cat filed in this bean.
-    @Qualifier("cat2") //to identify the beans instance in the context when creating bean using @Bean annotation only
+    @Qualifier("cat2") //to identify the beans instance in the context
     private Cat cat;
 
 //    @Autowired(required = false)    // required -> false not to force the existence of a cat in the context it but bad.
