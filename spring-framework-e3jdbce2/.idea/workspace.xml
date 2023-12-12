@@ -5,22 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="11788c04-6c99-4e7b-9be9-c35a8328c02d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3/src/main/java/org/example/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3/src/main/java/org/example/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/HelloService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/HelloServiceEn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/HelloServiceEs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/demo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-framework-e2/src/main/java/org/example/beans/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-framework-e2/src/main/java/org/example/beans/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework-e4-AOP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework-e4-AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework-e4-AOP/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-framework-e3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-framework-e3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/hab/workspace/spring/spring-framework-by-Laur/spring-framework-e3jdbce2",
+    "last_opened_file_path": "/home/hab/workspace/spring/spring-framework-by-Laur/spring-framework-e4-AOP",
     "settings.editor.selected.configurable": "AndroidSdkUpdater"
   }
 }]]></component>

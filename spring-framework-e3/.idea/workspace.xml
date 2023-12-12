@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1f411e4-84c6-4452-a1de-2b5b39d21a55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/config/ProjectConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/repositories/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3jdbce2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3jdbce2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3jdbce2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-framework-e3jdbce2/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework-e4-AOP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework-e4-AOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-framework-e4-AOP/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-framework-e3jdbce2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-framework-e3jdbce2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
