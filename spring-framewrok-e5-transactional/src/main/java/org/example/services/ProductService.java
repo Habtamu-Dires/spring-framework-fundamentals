@@ -14,7 +14,7 @@ public class ProductService {
     // AOP is behind the implementation of @Transactional
     //the transaction will start at beginning of the method and committed at the end of the method.
     /*@Transactional(noRollbackFor = RuntimeException.class)
-    ..rollbackFor and noRollbackFor -> attributes to change the default behaviour when and when not to roll back*/
+    ..rollbackFor and noRollbackFor -> parameters of Transactional to change the default behaviour when and when not to roll back*/
     @Transactional
     public void addOneProduct() {
         productRepository.addProduct("Beer");
