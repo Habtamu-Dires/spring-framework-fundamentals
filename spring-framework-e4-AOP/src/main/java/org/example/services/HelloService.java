@@ -14,5 +14,5 @@ public class HelloService {
 }
 
 /**
- * Here you don't see anything about aspect being intercepted . it is clean code.
+ * Here you don't see anything about the method being intercepted . it is clean code.
  */

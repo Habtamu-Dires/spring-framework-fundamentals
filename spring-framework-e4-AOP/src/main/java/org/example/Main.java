@@ -37,6 +37,9 @@ public class Main {
  *     -it defines certain behaviors that can be applied across multiple components in a modular way
  * ->Advice: is the actual code that gets executed when a specific point in the program (joint point)
       is reached.
+ * -> Weaving - is the process of integrating aspects into the application at specified join point
+ *    during the application's lifecycle. Two type of Weaving compile-time and run-time weaving
+ *    here since we are using spring context , it is run-time Weaving.
  */
 
 /**

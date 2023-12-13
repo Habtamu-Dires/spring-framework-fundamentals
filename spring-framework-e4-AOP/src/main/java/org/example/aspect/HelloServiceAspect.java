@@ -7,11 +7,11 @@ import org.springframework.stereotype.Component;
 /**
  * An aspect is a decoupled (separated) pace of code the intercept a specific group of methods.
  * it can be before execution of a method , after the execution of a method , or
- * when exception occur.
+ * when exception occur or around(ant any place ).
  */
 
-@Aspect  //this just define aspect, it doesn't add an instance in the spring context, we have to do ourself using stereotype or using @Bean
-@Component
+@Aspect  //this just define aspect, it doesn't add an instance in the spring context,
+@Component //we have to do our-self to add it this to context using stereotype or using @Bean
 public class HelloServiceAspect {
 
 
