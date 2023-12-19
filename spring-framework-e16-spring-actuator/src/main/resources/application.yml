@@ -1,0 +1,19 @@
+server:
+  port: 7070
+
+management:
+  server:
+    port: 9090
+  endpoints:
+    web.exposure:
+      include: "*"
+  endpoint:
+    health:
+      show-details: always
+  info:
+    env.enabled: true
+
+info:
+  application:
+    author: Habtamu
+    version: 1
